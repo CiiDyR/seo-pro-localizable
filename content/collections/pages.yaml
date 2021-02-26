@@ -1,0 +1,15 @@
+title: Pages
+sites:
+  - default
+  - two
+revisions: false
+route: '{parent_uri}/{slug}'
+structure:
+  root: true
+  tree:
+    default:
+      -
+        entry: home
+    two:
+      -
+        entry: 14926376-ae2e-4af0-992e-bd56a489f93e
